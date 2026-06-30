@@ -1,0 +1,15 @@
+﻿site_name,site,sample_name,sample,pcr1,pcr2,pcr3,pcr4,pcr5,pcr6,pcr7,pcr8
+Copper Creek Adit 1,1,CPCK-03A,1,1,1,1,1,1,0,0,0
+Copper Creek Adit 1,1,CPCK-03B,2,0,0,0,0,0,0,0,0
+Copper Creek Adit 1,1,CPCK-03C,3,0,0,0,0,0,0,0,0
+Copper Creek Adit 2,2,CPCK-04A,1,0,0,0,0,0,0,0,0
+Copper Creek Adit 2,2,CPCK-04B,2,1,0,0,0,0,0,0,0
+Copper Creek Adit 2,2,CPCK-04C,3,0,0,0,0,0,0,0,0
+New Afton Pit Portal Internal,3,NAPP-01A,1,0,0,0,0,0,0,0,0
+New Afton Pit Portal Internal,3,NAPP-01B,2,0,0,0,0,0,0,0,0
+New Afton Pit Portal Internal,3,NAPP-01C,3,0,0,0,0,0,0,0,0
+New Afton Pit Portal Entrance,4,NAPP-02A,1,0,0,0,0,0,0,0,0
+New Afton Pit Portal Entrance,4,NAPP-02B,2,0,0,0,0,0,0,0,0
+New Afton Pit Portal Entrance,4,NAPP-02C,3,0,0,0,0,0,0,0,0
+Rail Tunnel East,5,CNE-01A,1,0,0,0,0,0,0,0,0
+Rail Tunnel East,5,CNE-01B,2,0,0,0,0,0,0,0,0
